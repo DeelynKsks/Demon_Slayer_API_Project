@@ -1,0 +1,118 @@
+{
+    "Name": "Tanjiro Kamado",
+    "Characteristics": {
+        "Race": "Humano",
+        "Gender": "Masculino",
+        "Age": 16,
+        "Birthday": "14 de Julio",
+        "Description": "Tanjiro Kamado es el protagonista principal de Kimetsu no Yaiba. Es un cazador de Demonios cuyo principal objetivo es encontrar al responsable de haber matado a su familia y convertido a su hermana Nezuko en una Demonio y luego juró derrotar a Muzan Kibutsuji, el Rey de los Demonios, para evitar que otros sufran el mismo destino que él."
+    },
+    "ProfesionalInfo": {
+        "Affiliation": "Demon Slayer Corps",
+        "Ocupation": "Demon Slayer",
+        "Range": "Kanoe"
+    },
+    "Skills": {
+        "Breathings": {
+            "Respiración del Agua - Mizu no kokyū": {
+                "Ichi no kata": {
+                    "Minamo Giri": "El usuario genera un corte poderoso formando una ola por el movimiento de su arma potenciando su ataque capaz de decapitar fácilmente a cualquier objetivo."
+                },
+                "Ni no kata": {
+                    "Mizu Guruma": "El usuario realiza un giro de 360° en cualquier dirección manteniendo su espada firme formando un circulo de agua realizando un potente corte al enemigo."
+                },
+                "San no kata": {
+                    "Ryūryū Mai": "El usuario balancea su espada contra su oponente de una manera que imita el movimiento de las corrientes de agua siendo así un ataque fluido en un movimiento circular."
+                },
+                "Shi no kata": {
+                    "Uchishio": "El usuario realiza diversos cortes de manera consecutiva mientras gira fluidamente simulando una marea alrededor del objetivo."
+                },
+                "Go no kata": {
+                    "Kanten no Jiu": "Un corte que acaba con la vida del objetivo sin producir dolor alguno."
+                },
+                "Roku no kata": {
+                    "Nejire Uzu": "Torciendo ferozmente la parte superior e inferior de su cuerpo, crea un remolino que corta cualquier cosa atrapada en el."
+                },
+                "Shichi no kata": {
+                    "Shizuku wa Mondzuki": "Una puñalada rápida y precisa, esta postura destaca entre las otras por la rapidez con la que se puede realizar."
+                },
+                "Hachi no kata": {
+                    "Takitsubo": "El espadachin realiza un corte en vertical causando un daño devastador sobre el objetivo."
+                },
+                "Ku no kata": {
+                    "Suiryū shibuki": "inimiza el tiempo de aterrizaje y la superficie necesaria al aterrizar, lo que permite al usuario moverse sin límites. Ideal cuando peleas en un lugar sin un punto de apoyo sólido."
+                },
+                "Jū no kata": {
+                    "Seisei ruten": "Un ataque continuo con la forma de un Dragón de agua que incrementa su fuerza con cada rotación creando poderosos cortes."
+                }
+            },
+            "Danza del Dios del Fuego - Hinokami Kagura": {
+                "Ichi no kata": {
+                    "Enbu": "Un simple corte horizontal, con una danza continua de varios cortes de fuego avanzando a gran velocidad."
+                },
+                "Ni no kata": {
+                    "Heki-ra no Ten": "El usuario realiza un giro de 360° en cualquier dirección manteniendo su espada firme formando un circulo de agua realizando un potente corte al enemigo."
+                },
+                "San no kata": {
+                    "Retsujitsu Kōkyō": "El usuario lanza dos cortes defensivos capaces de hacer daño y repeler ataques."
+                },
+                "Shi no kata": {
+                    "Gen'nichi Kō": "Una danza evasiva que consiste en giros y rotaciones a alta velocidad. Funciona de manera más efectiva en enemigos con buena visión, ya que atacarán una imagen secundaria de él usuario y no a su cuerpo real."
+                },
+                "Go no kata": {
+                    "Kasha": "El usuario salta en el aire mientras gira dando lugar a una rueda de fuego."
+                },
+                "Roku no kata": {
+                    "Shakkotsu En'yō": "El usuario realiza un corte singular utilizando un movimiento en espiral que se extiende frente a él para defenderse de ataques frontales inminentes."
+                },
+                "Shichi no kata": {
+                    "Yōkatotsu": "El usuario lanza una poderosa estocada contra el enemigo."
+                },
+                "Jū no kata": {
+                    "Kiki Onkō": "El usuario se lanza en espiral en el aire para lanzar un poderoso corte a su enemigo."
+                },
+                "Jū Ichi no kata": {
+                    "Nichiun no Ryū Kaburimai": "El usuario enciende su espada adoptando un aura de fuego en forma de Dragón, se mueve entre los enemigos, evitando sus ataques y los corta múltiples veces."
+                },
+                "Jū Ni no kata": {
+                    "Enbu": "Un combo de dos golpes llameantes que comienza con un ataque vertical y luego uno horizontal."
+                }
+            }
+        }
+    },
+    "Gallery": {
+        "Category":{
+            "CharacterGallery": {
+                "ProfileImage": "https://res.cloudinary.com/dzgetf0y5/image/upload/v1685321228/DemonSlayerApi/Characters/Tanjiro%20Kamado/CharacterGallery/ImageProfile.jpg",
+                "FullBody": "https://res.cloudinary.com/dzgetf0y5/image/upload/v1685320857/DemonSlayerApi/Characters/Tanjiro%20Kamado/CharacterGallery/090331f4fb58f4847682d7959383b72c_a1jl7s.png"
+            },
+            "SkillsGallery": {
+                "Respiración del Agua - Mizu no kokyū": {
+                    "Ichi no kata": "https://res.cloudinary.com/dzgetf0y5/image/upload/v1685321120/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_using_First_Form_Water_Surface_Slash_to_kill_Hand_Demon_cu5xpl.webp",
+                    "Ni no kata": "https://res.cloudinary.com/dzgetf0y5/image/upload/v1685321155/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_using_Second_Style_Water_Wheel_on_Hand_Demon_jywccy.webp",
+                    "San no kata": "https://res.cloudinary.com/dzgetf0y5/image/upload/v1685321563/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/latest_nscxk1.gif",
+                    "Shi no kata": "https://res.cloudinary.com/dzgetf0y5/image/upload/v1685321579/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_using_Fourth_Form_Striking_Tide_tdjx21.webp",
+                    "Shi no kata - Ran": "https://res.cloudinary.com/dzgetf0y5/image/upload/v1685321588/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_using_Striking_Tide_2C_Turbulent_uqgyfq.webp",
+                    "Go no kata": "https://res.cloudinary.com/dzgetf0y5/image/upload/v1685321593/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_using_Fifth_Form_on_Mother_Spider_Demon_lqtdyr.webp",
+                    "Roku no kata": "https://res.cloudinary.com/dzgetf0y5/image/upload/v1685321597/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_using_Sixth_Style_Whirlpool_against_Swamp_Demon_ihwr9k.webp",
+                    "Shichi no kata": "https://res.cloudinary.com/dzgetf0y5/image/upload/v1685321919/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_using_Seventh_Form_Drop_Ripple_Thrust-curve_on_the_temari_yocdxo.webp",
+                    "Hachi no kata": "https://res.cloudinary.com/dzgetf0y5/image/upload/v1685321922/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_using_Eighth_Form_Waterfall_Basin_against_Swamp_Demon_l43wxu.webp",
+                    "Ku no kata": "https://res.cloudinary.com/dzgetf0y5/image/upload/v1685321928/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_defeats_Kyogai_with_Ninth_Form_zh3o9h.webp",
+                    "Jū no kata": "https://res.cloudinary.com/dzgetf0y5/image/upload/v1685321936/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_using_Tenth_Form_if6er0.webp"
+                },
+                "Danza del Dios del Fuego - Hinokami Kagura": {
+                    "Ichi no kata":"https://res.cloudinary.com/dzgetf0y5/image/upload/v1685322239/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_cutting_Rui_27s_threads_with_Hinokami_Kagura_Dance.gif_mmxjch.gif",
+                    "Ni no kata":"https://res.cloudinary.com/dzgetf0y5/image/upload/v1685322268/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_uses_Clear_Blue_Sky_against_Enmu_rzs1qf.gif",
+                    "San no kata":"https://res.cloudinary.com/dzgetf0y5/image/upload/v1685322422/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_uses_his_Raging_Sun_technique_against_Daki_k2ktqx.webp",
+                    "Shi no kata":"https://res.cloudinary.com/dzgetf0y5/image/upload/v1685322485/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_uses_his_Fake_Rainbow_technique_to_evade_Daki_27s_attack_xlelkd.gif",
+                    "Go no kata":"https://res.cloudinary.com/dzgetf0y5/image/upload/v1685322535/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_uses_his_Fire_Wheel_technique_against_Daki_cyn90q.gif",
+                    "Roku no kata":"https://res.cloudinary.com/dzgetf0y5/image/upload/v1685322584/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_uses_his_Burning_Bones_2C_Summer_Sun_technique_qwajww.gif",
+                    "Shichi no kata":"https://res.cloudinary.com/dzgetf0y5/image/upload/v1685322616/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_using_Sunflower_Thrust_to_attack_Hantengu_xinv1s.gif",
+                    "Jū no kata":"https://res.cloudinary.com/dzgetf0y5/image/upload/v1685322659/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_destroys_Daki_27s_sashes_bxzxfj.gif",
+                    "Jū Ichi no kata":"https://res.cloudinary.com/dzgetf0y5/image/upload/v1685322710/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Sun_Halo_Dragon_Head_Dance__28Anime_29_kxtagt.gif",
+                    "Jū Ni no kata":"https://res.cloudinary.com/dzgetf0y5/image/upload/v1685322742/DemonSlayerApi/Characters/Tanjiro%20Kamado/SkillsGallery/Tanjiro_uses_his_Flame_Dance_technique_against_Daki_nlmj7e.gif"
+                }
+            }
+        }
+    }
+}

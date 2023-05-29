@@ -53,6 +53,21 @@ ctrlCharacter.getCharacters = async (req, res) => {
         })
     }
     
-}
+},
 
+ctrlCharacter.getCharacter = async (req, res) => {
+
+    const { name } = req.body
+
+    try {
+        const getCharacter = await Character.findOne({"Name": name})
+
+        return res.send(getCharacter)
+    } catch (err) {
+        return res.status(400).json({
+            error: "No se ha podido encontrar al personaje",
+            err
+        })
+    }
+}
 module.exports = ctrlCharacter
