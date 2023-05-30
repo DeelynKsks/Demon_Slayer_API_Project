@@ -70,4 +70,23 @@ ctrlCharacter.getCharacter = async (req, res) => {
         })
     }
 }
+
+ctrlCharacter.getCharacterByName = async (req, res) => {
+
+    const { name } = req.params
+    console.log(name)
+    const nameModified = name.replace(':', '').replace('_', ' ');
+    console.log(nameModified)
+    try {
+        const getCharacter = await Character.findOne({"Name":nameModified})
+        
+        res.send(getCharacter)
+    } catch (err) {
+        res.status(400).json({
+            msg: "No se ha encontrado el personaje",
+            Error: err
+        })
+    }
+
+}
 module.exports = ctrlCharacter
